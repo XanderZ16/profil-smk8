@@ -14,6 +14,16 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                'primary': '#8377D1',
+                'secondary': '#FFFFFF',
+                'accent': '#C3512F',
+                'neutral': '#F5F5F5',
+            },
+            fontFamily: {
+                'outfit': ['Outfit', 'sans-serif'],
+                'roboto': ['Roboto', 'sans-serif'],
+            },
         },
     },
     plugins: [],
